@@ -1,6 +1,6 @@
 n = int(input())
 
-arr = [[] for_ in range(n)]
+arr = [[] for _ in range(n)]
 
 for i in range(n):
     x,y = map(int,input().split())
@@ -19,7 +19,7 @@ print(p)
 q = int(input())
 
 
-arr_ab = [[] for_ in range(n)]
+arr_ab = [[] for _ in range(n)]
 
 for i in range(q):
     x,y = map(int,input().split())
